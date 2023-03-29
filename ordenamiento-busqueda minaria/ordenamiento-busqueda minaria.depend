@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1679961749 source:c:\users\amaur\documents\ordenamiento-busqueda minaria\src\lista.cpp
+	"Lista.h"
+
+1679961749 c:\users\amaur\documents\ordenamiento-busqueda minaria\include\lista.h
+	"Solicitud.h"
+
+1679961749 c:\users\amaur\documents\ordenamiento-busqueda minaria\include\solicitud.h
+	<iostream>
+
+1679961749 source:c:\users\amaur\documents\ordenamiento-busqueda minaria\src\solicitud.cpp
+	"Solicitud.h"
+
+1679961948 source:c:\users\amaur\documents\ordenamiento-busqueda minaria\main.cpp
+	<iostream>
+	"Lista.h"
+	"Solicitud.h"
+
